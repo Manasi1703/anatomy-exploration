@@ -1,3 +1,3 @@
 {
-  "redirects": [{ "source": "/", "destination": "/vintage/", "permanent": false }]
+  "rewrites": [{ "source": "/", "destination": "/vintage/index.html" }]
 }
